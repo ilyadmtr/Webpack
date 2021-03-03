@@ -46,7 +46,7 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0"
   }
 }
